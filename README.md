@@ -1,2 +1,2 @@
-# jobspot--website
+# jobspot-website
 Created with CodeSandbox
